@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - My Github: "https://github.com/sinhnguyen-sunny"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://sinhnguyen-sky.io"
+  Author's home: "https://sinhnguyen-sunny.github.io"
 
 ################
 # --- Logo --- #
@@ -95,7 +95,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "sinhnguyen-sky.io"
+url-pretty: "sinhnguyen-sunny.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
